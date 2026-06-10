@@ -1,0 +1,27 @@
+title: Joel Nithish Kumar Murugan
+email: joelnithishkumar.work@gmail.com
+description: >-
+  Pre-doctoral research candidate in empirical economics. Working on social
+  insurance, climate adaptation, and causal inference.
+baseurl: "/research"
+url: "https://JoelNithishKumar.github.io"
+github_username:  JoelNithishKumar
+linkedin_username: joel-nithish-kumar-m-714a75174
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /writing/:year/:month/:day/:title/
+
+exclude:
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - "*.sh"
