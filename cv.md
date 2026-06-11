@@ -98,7 +98,16 @@ title: CV
     <span class="cv-entry-date">Nov 2025–present</span>
   </div>
   <div class="cv-entry-sub">Remote, volunteer</div>
-  <p style="font-size:0.92rem; margin-top:0.3rem;">Build analysis-ready data models and warehouse schemas; develop multi-source ingestion and transformation pipelines with attention to data quality, documentation, and reproducibility.</p>
+  <p style="font-size:0.92rem; margin-top:0.3rem;">Build analysis-ready data models and warehouse schemas supporting reporting and downstream analytics. Develop multi-source ingestion and transformation pipelines with emphasis on data quality, documentation, and reproducibility.</p>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry-header">
+    <span class="cv-entry-title">Data &amp; Reporting Analyst, Aburva Enterprises</span>
+    <span class="cv-entry-date">May 2018–Jul 2023</span>
+  </div>
+  <div class="cv-entry-sub">Part-time May 2018–Apr 2022 · Full-time May 2022–Jul 2023 · Chennai, India</div>
+  <p style="font-size:0.92rem; margin-top:0.3rem;">Migrated business reporting from spreadsheets to a cloud-based Power BI stack (SSIS ingestion, SSAS tabular modeling), cutting the monthly reporting cycle from five days to under one day and giving leadership interactive access to inventory, procurement, vendor, and sales KPIs. Standardized data prep workflows in SSMS/SSIS, improving inventory tracking accuracy by 60% and reducing manual reporting errors by 40%. Supported a 3.7% revenue lift during the COVID-19 medical-supplies pivot by analyzing procurement and inventory data to inform supply planning under volatile conditions.</p>
 </div>
 
 <div class="cv-entry">
@@ -107,7 +116,7 @@ title: CV
     <span class="cv-entry-date">Aug–Dec 2024</span>
   </div>
   <div class="cv-entry-sub">Graduate-coursework venture · Chicago, IL</div>
-  <p style="font-size:0.92rem; margin-top:0.3rem;">Led structured qualitative research and evidence synthesis on commercial readiness of a next-generation battery technology. Team won first place at Kaplan Institute Innovation Day (six-person interdisciplinary team).</p>
+  <p style="font-size:0.92rem; margin-top:0.3rem;">Designed and executed structured qualitative research on the commercial readiness of a next-generation battery technology; synthesized findings from three prospective client interviews into a decision-relevant evidence memo. Team won first place at Kaplan Institute Innovation Day (six-person interdisciplinary team).</p>
 </div>
 
 <div class="cv-entry">
@@ -116,7 +125,7 @@ title: CV
     <span class="cv-entry-date">Jan 2022–Feb 2023</span>
   </div>
   <div class="cv-entry-sub">Early-stage real-estate technology · Chennai, India</div>
-  <p style="font-size:0.92rem; margin-top:0.3rem;">Co-founded a real-estate transaction prototype on Ethereum; led product analytics and built decision-support features used during early user testing.</p>
+  <p style="font-size:0.92rem; margin-top:0.3rem;">Co-founded a real-estate transaction prototype on Ethereum. Led product analytics and built decision-support features used during early user testing.</p>
 </div>
 
 </div>
