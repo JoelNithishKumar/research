@@ -12,7 +12,7 @@ title: Research
   <a href="https://github.com/JoelNithishKumar/forecast-policy-learning" target="_blank" rel="noopener">Code</a>
 </p>
 
-Reproducible empirical pipeline comparing budget-targeting rules for forecast and insurance interventions in a synthetic agricultural-risk setting. Allocates subsidized treatment to the bottom-20% predicted-loss villages and benchmarks against random assignment using village-level train/test splits that preserve clustered assignment. Implements three policy modules — budget targeting, belief-updating analysis, and downside-risk evaluation — and reports severe-loss protection at a bottom-20% outcome threshold. Designed as a companion to Burlig, Kelley, and Lane (2025) on West Bengal forecasts-vs-insurance. Python; modular, documented, end-to-end reproducible.
+Reproducible empirical pipeline comparing budget-targeting rules for forecast and insurance interventions in a synthetic agricultural-risk setting. Allocates subsidized treatment to the bottom-20% predicted-loss villages and benchmarks against random assignment using village-level train/test splits that preserve clustered assignment. Implements three policy modules — budget targeting, belief-updating analysis, and downside-risk evaluation — and reports severe-loss protection at a bottom-20% outcome threshold. Inspired by the work of Burlig, Kelley, and Lane (2025) on West Bengal forecasts-vs-insurance. Python; modular, documented, end-to-end reproducible.
 </div>
 
 <div class="project">
@@ -27,7 +27,7 @@ Randomized framing experiment with five message conditions delivered in parallel
 
 ---
 
-## Articles and writing samples
+## Research articles
 
 <div class="project">
 <p class="project-title">
@@ -36,6 +36,8 @@ Randomized framing experiment with five message conditions delivered in parallel
 <p class="project-meta">
   2026 &nbsp;·&nbsp; R &nbsp;·&nbsp;
   <a href="https://github.com/JoelNithishKumar/snap-takeup-revisit" target="_blank" rel="noopener">Code and data</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/JoelNithishKumar/snap-takeup-revisit/blob/main/writing/article.md" target="_blank" rel="noopener">Article</a>
 </p>
 
 Builds a state-year panel from USDA SNAP and ACS data (2018–2023). Estimates cross-sectional OLS and an event study around the staggered 2022–2023 rollback of pandemic interview waivers. The piece is explicit about what each specification can and cannot identify; the event study provides the cleaner quasi-experimental evidence. Intended as a writing sample for positions in safety-net research.
@@ -48,6 +50,8 @@ Builds a state-year panel from USDA SNAP and ACS data (2018–2023). Estimates c
 <p class="project-meta">
   2026 &nbsp;·&nbsp; R, Python &nbsp;·&nbsp;
   <a href="https://github.com/JoelNithishKumar/nyc-congestion-pricing-eval" target="_blank" rel="noopener">Code and data</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/JoelNithishKumar/nyc-congestion-pricing-eval/blob/main/writing/article.md" target="_blank" rel="noopener">Article</a>
 </p>
 
 Evaluates the first seventeen months of NYC's Manhattan cordon using three counterfactual strategies — before-after, synthetic control (augsynth, TomTom donor pool), and difference-in-differences against adjacent Port Authority crossings. The headline range is 8–15 percent traffic reduction depending on method and assumptions. The piece is honest about what each estimate requires and what public data cannot resolve. Intended as a writing sample for positions in transportation and congestion pricing.
