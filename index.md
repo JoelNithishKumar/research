@@ -1,8 +1,30 @@
 ---
+layout: default
+title: Home
+---
 
-## Research
+<div class="home-bio">
 
-**Completed projects**
+# Joel Nithish Kumar Murugan
+
+<p class="muted sans" style="margin-bottom:1.2rem;">
+  <a href="mailto:joelnithishkumar.work@gmail.com">joelnithishkumar.work@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/JoelNithishKumar" target="_blank" rel="noopener">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/joel-nithish-kumar-m-714a75174/" target="_blank" rel="noopener">LinkedIn</a>
+  &nbsp;·&nbsp; Chicago, IL
+</p>
+
+My background is in data and applied analytics — five years building reporting systems, running quasi-experiments, and working with administrative data across business and research settings. That work sharpened my interest in the questions that data alone cannot answer without careful identification: how do households respond to risk? How do policy designs interact with limited information and behavioral frictions? Those questions led me toward empirical economics.
+
+I am now working directly on those questions — designing field experiments, building reproducible causal inference pipelines, and writing up research on social insurance, climate adaptation, and transportation policy. I completed my M.S. at Illinois Institute of Technology in May 2025 and am preparing to apply for economics PhD programs. The research projects and articles on this site are the work I have done to close the gap between analytics and empirical economics.
+
+</div>
+
+<h2>Research</h2>
+
+<p class="muted sans" style="font-size:0.85rem; margin-bottom:1rem;">Completed projects</p>
 
 <div class="project">
 <p class="project-title">
@@ -22,9 +44,9 @@
 
 <p><a href="/research/research">All research →</a></p>
 
----
+<hr style="border:none; border-top:1px solid #ddd; margin:2rem 0;">
 
-## Writing
+<h2>Writing</h2>
 
 <ul class="post-list">
   <li>
