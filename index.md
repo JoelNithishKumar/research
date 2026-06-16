@@ -16,7 +16,7 @@ title: Home
   &nbsp;·&nbsp; Chicago, IL
 </p>
 
-My background is in data and applied analytics five years(including part-time) building reporting systems, running quasi-experiments, and working with administrative data across business and research settings. That work sharpened my interest in the questions that data alone cannot answer without careful identification: how do households respond to risk? How do policy designs interact with limited information and behavioral frictions? Those questions led me toward empirical economics.
+My background is in data and applied analytics - five years(including part-time) of building reporting systems, running quasi-experiments, and working with administrative data across business and research settings. That work sharpened my interest in the questions that data alone cannot answer without careful identification: how do households respond to risk? How do policy designs interact with limited information and behavioral frictions? Those questions led me toward empirical economics.
 
 I am now working directly on those questions designing field experiments, building reproducible causal inference pipelines, and writing up research on social insurance, climate adaptation, and transportation policy. I completed my M.S. at Illinois Institute of Technology in May 2025 and am preparing to apply for economics PhD programs. The research projects and articles on this site are the work I have done to close the gap between analytics and empirical economics.
 
