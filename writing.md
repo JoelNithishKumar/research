@@ -26,6 +26,6 @@ Each entry links to a summary on this site. For the full article with all tables
       &nbsp;·&nbsp; <a href="https://github.com/JoelNithishKumar/nyc-congestion-pricing-eval" target="_blank" rel="noopener">Code and data</a>
       &nbsp;·&nbsp; <a href="https://github.com/JoelNithishKumar/nyc-congestion-pricing-eval/blob/main/writing/article.md" target="_blank" rel="noopener">Full article →</a>
     </p>
-    <p style="font-size:0.92rem; margin-top:0.3rem;">Evaluates the first seventeen months of NYC's Manhattan cordon using three counterfactual strategies — before-after, synthetic control (augsynth, TomTom donor pool), and difference-in-differences against adjacent Port Authority crossings. The headline range is 8–15 percent traffic reduction depending on method and assumptions. <a href="/research/writing/2026/06/10/nyc-congestion-pricing-eval/">Read summary →</a></p>
+    <p style="font-size:0.92rem; margin-top:0.3rem;">Evaluates the first seventeen months of NYC's Manhattan cordon using three counterfactual strategies before-after, synthetic control (augsynth, TomTom donor pool), and difference-in-differences against adjacent Port Authority crossings. The headline range is 8–15 percent traffic reduction depending on method and assumptions. <a href="/research/writing/2026/06/10/nyc-congestion-pricing-eval/">Read summary →</a></p>
   </li>
 </ul>
