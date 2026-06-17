@@ -33,7 +33,8 @@ Both facts are correct. This is the classic low-base pattern: a large percentage
 
 Placed alongside other countries with broadly similar income and demographic profiles, India's recent FLFPR growth looks more like Saudi Arabia's or Bolivia's than like its South Asian neighbors. But the comparison that matters more for everyday perception is probably the regional one  and there, the picture is less flattering.
 
-<img src="/research/assets/img/flfp-norms-pilot/fig4_south_asia_comparator.png" alt="Female labor force participation rate across South Asia in 2024, with India below the world average" style="max-width:100%; margin: 1rem 0;">
+<img src="/<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5ab5ce6b-d8ee-44d2-b033-13839c6574a2" />
+" alt="Female labor force participation rate across South Asia in 2024, with India below the world average" style="max-width:100%; margin: 1rem 0;">
 
 Among five South Asian countries with comparable World Bank/ILO estimates for 2024, India sits in the middle  well below the global average of roughly 51 percent, and below Bangladesh specifically, despite India's much faster recent growth rate.
 
