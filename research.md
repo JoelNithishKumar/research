@@ -71,7 +71,7 @@ Evaluates the first seventeen months of NYC's Manhattan cordon using three count
   &nbsp;·&nbsp;
   <a href="https://github.com/JoelNithishKumar/FLFP-Norms-Pilot/blob/main/article/article.md" target="_blank" rel="noopener">Article on GitHub</a>
   &nbsp;·&nbsp;
-  <a href="/research/writing/2026/06/17/flfp-norms-pilot/">Read on this site</a>
+  <a href="/research/writing/2026/06/10/flfp-norms-pilot/">Read on this site</a>
 </p>
 
 Combines a 181-country panel analysis (1990–2025, World Bank/ILO via Our World in Data) with a small pilot survey experiment (N = 9) on beliefs about India's female labor force participation rate. Finds India at the 97th percentile of global FLFPR growth (2015–2025) but only the 11.5th percentile of global level — a low-base pattern. Shows that whether pilot respondents' beliefs count as "well-calibrated" or "a large underestimate" depends entirely on whether the benchmark is the World Bank/ILO series or India's own PLFS statistic.
