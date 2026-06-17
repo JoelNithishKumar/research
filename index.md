@@ -67,6 +67,15 @@ I am now working directly on those questions designing field experiments, buildi
       &nbsp;·&nbsp; <a href="/research/writing/2026/06/10/nyc-congestion-pricing-eval/">Read article →</a>
     </p>
   </li>
+  <li>
+    <a class="post-title-link" href="/research/writing/2026/06/10/flfp-norms-pilot/">Misperception and norms in female labor force participation: a pilot information experiment</a>
+    <p class="post-meta">
+      June 2026 &nbsp;
+      <span class="tag">gender</span><span class="tag">labor-economics</span><span class="tag">survey-experiment</span>
+      &nbsp;·&nbsp; <a href="https://github.com/JoelNithishKumar/FLFP-Norms-Pilot/tree/main" target="_blank" rel="noopener">Code</a>
+      &nbsp;·&nbsp; <a href="/research/writing/2026/06/10/flfp-norms-pilot/">Read article →</a>
+    </p>
+  </li>
 </ul>
 
 <p><a href="/research/writing">All writing →</a></p>
