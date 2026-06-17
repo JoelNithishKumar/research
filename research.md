@@ -62,3 +62,17 @@ Builds a state-year panel from USDA SNAP and ACS data (2018–2023). Estimates c
 
 Evaluates the first seventeen months of NYC's Manhattan cordon using three counterfactual strategies before-after, synthetic control (augsynth, TomTom donor pool), and difference-in-differences against adjacent Port Authority crossings. The headline range is 8 - 15 percent traffic reduction depending on method and assumptions. The piece is honest about what each estimate requires and what public data cannot resolve. Intended as a writing sample for positions in transportation and congestion pricing.
 </div>
+
+<div class="project">
+<p class="project-title">Misperception and norms in female labor force participation: a pilot information experiment</p>
+<p class="project-meta">
+  2026 &nbsp;·&nbsp; R &nbsp;·&nbsp;
+  <a href="https://github.com/JoelNithishKumar/FLFP-Norms-Pilot/tree/main" target="_blank" rel="noopener">Code and data</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/JoelNithishKumar/FLFP-Norms-Pilot/blob/main/article.md" target="_blank" rel="noopener">Article on GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="/research/writing/2026/06/17/flfp-norms-pilot/">Read on this site</a>
+</p>
+
+Combines a 181-country panel analysis (1990–2025, World Bank/ILO via Our World in Data) with a small pilot survey experiment (N = 9) on beliefs about India's female labor force participation rate. Finds India at the 97th percentile of global FLFPR growth (2015–2025) but only the 11.5th percentile of global level — a low-base pattern. Shows that whether pilot respondents' beliefs count as "well-calibrated" or "a large underestimate" depends entirely on whether the benchmark is the World Bank/ILO series or India's own PLFS statistic.
+</div>
