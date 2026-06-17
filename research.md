@@ -69,7 +69,7 @@ Evaluates the first seventeen months of NYC's Manhattan cordon using three count
   2026 &nbsp;·&nbsp; R &nbsp;·&nbsp;
   <a href="https://github.com/JoelNithishKumar/FLFP-Norms-Pilot/tree/main" target="_blank" rel="noopener">Code and data</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/JoelNithishKumar/FLFP-Norms-Pilot/blob/main/article.md" target="_blank" rel="noopener">Article on GitHub</a>
+  <a href="https://github.com/JoelNithishKumar/FLFP-Norms-Pilot/blob/main/article/article.md" target="_blank" rel="noopener">Article on GitHub</a>
   &nbsp;·&nbsp;
   <a href="/research/writing/2026/06/17/flfp-norms-pilot/">Read on this site</a>
 </p>
