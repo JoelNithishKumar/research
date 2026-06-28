@@ -77,5 +77,23 @@ I am now working directly on those questions designing field experiments, buildi
     </p>
   </li>
 </ul>
+---
+
+## Research designs in progress
+
+These projects have a completed design and data infrastructure, with results to follow.
+
+<div class="project">
+<p class="project-title">The geography of the delivery markup</p>
+<p class="project-meta">
+  2026 &nbsp;·&nbsp; R &nbsp;·&nbsp; <em>Design and data infrastructure complete; price collection in progress</em>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/JoelNithishKumar/delivery-markup-project/tree/main" target="_blank" rel="noopener">Repository</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/JoelNithishKumar/delivery-markup-project/blob/main/writing/design_note.md" target="_blank" rel="noopener">Design note</a>
+</p>
+
+Tests whether the markup that food-delivery platforms (DoorDash, Uber Eats) charge over in-store menu price varies systematically with neighborhood income across twenty Chicago ZIP codes, stratified by income tercile. The design is built to discriminate between two competing theories of platform pricing: willingness-to-pay price discrimination (markup rises with income) versus exploitation of limited consumer alternatives in underserved areas (markup falls with income, especially once local competition is controlled for). Price data collected by hand across five national quick-service chains, holding item and pre-fee price fixed. ACS income and Census Gazetteer density data already merged into a ZCTA-level panel; planned specification uses chain fixed effects with ZIP-clustered standard errors.
+</div>
 
 <p><a href="/research/writing">All writing →</a></p>
